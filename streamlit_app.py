@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
-import plotly.graph_objects as go
-import plotly.express as px
+# import plotly.graph_objects as go
+# import plotly.express as px
 import streamlit as st
 from datetime import datetime
 import altair as alt
@@ -10,6 +10,7 @@ from vega_datasets import data
 
 st.header('Practice Streamlit')
 
+# This is the modified file 
 
 # df = pd.DataFrame({
 #     'first column' : [1, 2, 3, 4],
